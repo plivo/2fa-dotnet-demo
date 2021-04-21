@@ -8,20 +8,20 @@ This example shows how Plivo APIs can be used to integrate a two factor authenti
 In other languages:
 <table>
    <tr>
-      <td>NodeJS</td>
-      <td><a href="https://github.com/plivo-dev/2FA_ExpressApp">Done</a></td>
-   </tr>
-   <tr>
-      <td>Ruby</td>
-      <td><a href="https://github.com/plivo-dev/2FA_SinatraApp">Done</a></td>
+      <td>Node.js</td>
+      <td><a href="https://github.com/plivo/2fa-node-demo">Done</a></td>
    </tr>
    <tr>
       <td>Python</td>
-      <td><a href="https://github.com/plivo-dev/2FA_FlaskApp">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-python-demo">Done</a></td>
+   </tr>
+   <tr>
+      <td>Ruby</td>
+      <td><a href="https://github.com/plivo/2fa-ruby-demo">Done</a></td>
    </tr>
    <tr>
       <td>PHP</td>
-      <td><a href="https://github.com/plivo-dev/2FA_PHP">Done</a></td>
+      <td><a href="https://github.com/plivo/2fa-php-demo">Done</a></td>
    </tr>
 </table>
 
@@ -38,11 +38,11 @@ This application verifies your phone number using the two factor authentication 
 
 1. Clone this repo.
     ```shell
-    git clone git@github.com:plivo-dev/2FA_Csharp.git    
+    git clone git@github.com:plivo/2fa-dotnet-demo.git    
     ```
-2. Change your working directory to 2FA_Csharp
+2. Change your working directory to 2fa-dotnet-demo
     ```shell
-    cd 2FA_Csharp
+    cd 2fa-dotnet-demo
     ```
 3. Open the 2fa.csproj or 2fa.sln in Visual Studio. 
 
